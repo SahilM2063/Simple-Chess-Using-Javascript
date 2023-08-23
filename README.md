@@ -4,17 +4,13 @@
   <em>Play chess right in your browser with this minimalist JavaScript chess game.</em>
 </p>
 
-<p align="center">
-  <img src="game-screenshot.png" alt="Game Screenshot">
-</p>
+<div align="center">
+  <img src="chess.png" alt="Chess Board">
+</div>
 
 ## 🚀 Introduction
 
 Welcome to the Simple JavaScript Chess Game project! This is a lightweight implementation of a chess game using only HTML, CSS, and JavaScript. It's designed to provide a straightforward chess-playing experience without the complexities of advanced features. Whether you're looking for a basic chess game or a starting point to build upon, this project has you covered.
-
-<div align="center">
-  <img src="chess.png" alt="Chess Board">
-</div>
 
 ## 🛠️ Getting Started
 
@@ -37,8 +33,13 @@ Remember, this project is designed to be a simple implementation of chess, witho
 
 Contributions to this project are not only welcome but encouraged! If you have ideas for improvements, want to fix bugs, or want to add more features while maintaining the project's simplicity, please feel free to submit a pull request.
 
-## 📄 License
+## 🙏 Thank You
 
-Thank you for checking out the Simple JavaScript Chess Game project. Enjoy your basic chess-playing experience, and feel free to customize and expand upon the code as you see fit! If you have any questions or suggestions, don't hesitate to reach out.
+Thank you for checking out the Simple JavaScript Chess Game project! If you have any questions, feedback, or just want to connect, feel free to reach out to me:
+
+- **Name:** Sahil Makadia
+- **Email:** makadiasahil9846@gmail.com
+
+---
 
 Happy coding and playing! 🎲

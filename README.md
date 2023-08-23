@@ -8,6 +8,8 @@
   <img src="chess.png" alt="Chess Board">
 </div>
 
+## Play Chess Here [Simple Chess](https://weather-app-ten-mu-45.vercel.app/)
+
 ## 🚀 Introduction
 
 Welcome to the Simple JavaScript Chess Game project! This is a lightweight implementation of a chess game using only HTML, CSS, and JavaScript. It's designed to provide a straightforward chess-playing experience without the complexities of advanced features. Whether you're looking for a basic chess game or a starting point to build upon, this project has you covered.

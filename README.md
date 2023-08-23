@@ -8,7 +8,7 @@
   <img src="chess.png" alt="Chess Board">
 </div>
 
-## Play Chess Here [Simple Chess](https://weather-app-ten-mu-45.vercel.app/)
+## Play Chess Here [Simple Chess](https://sahilm2063.github.io/Simple-Chess-Using-Javascript/)
 
 ## 🚀 Introduction
 

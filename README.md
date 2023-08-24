@@ -25,7 +25,7 @@ To get started with the Simple JavaScript Chess Game, follow these steps:
 ## 🎮 How to Play
 
 1. Open the game in your web browser.
-2. Drag on a chess piece to select.
+2. Drag a chess piece to select.
 3. Drop om a valid place. (you can only place piece on valid spot according to piece.) 
 4. The game doesn't include advanced features like check detection, checkmate, move highlightation or pawn promotion.
 
